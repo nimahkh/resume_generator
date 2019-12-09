@@ -31,3 +31,7 @@ This project will create for you a resume with a simple template.
 #### The Husky
 
 - Before any push on Github, your project will run `lint and prettier` itself.
+
+#### Tests
+
+`soon...`
