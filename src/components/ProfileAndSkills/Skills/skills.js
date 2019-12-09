@@ -1,0 +1,23 @@
+const skills = [
+  { name: "Javascript", link: "" },
+  { name: "ReactJS", link: "" },
+  { name: "Gatsby", link: "" },
+  { name: "Unit Testing (Javascript - PHP)", link: "" },
+  { name: "Docker (Javascript- PHP)", link: "" },
+  { name: "Travis CI/CD", link: "" },
+  { name: "CircleCI", link: "" },
+  { name: "Responsive Design", link: "" },
+  { name: "MongoDB", link: "" },
+  { name: "ExpressJS", link: "" },
+  { name: "KoaJS", link: "" },
+  { name: "AdonisJS", link: "" },
+  { name: "MERN stack", link: "" },
+  { name: "Jest, Enzyme and React testing Library", link: "" },
+  { name: "CucumberJS (BDD test)", link: "" },
+  { name: "NightmareJS", link: "" },
+  { name: "Linux", link: "" },
+  { name: "Web3", link: "" },
+  { name: "PWA", link: "" },
+  { name: "Graphql", link: "" },
+]
+export default skills
