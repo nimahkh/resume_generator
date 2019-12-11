@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<div
+  className="yui-t7"
+  id="doc2"
+>
+  <div
+    id="inner"
+  >
+    <div />
+  </div>
+  <footer>
+    © 
+    2019
+    , Built with
+     
+    <a
+      href="https://www.gatsbyjs.org"
+    >
+      Gatsby
+    </a>
+  </footer>
+</div>
+`;
