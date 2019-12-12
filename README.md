@@ -2,6 +2,8 @@
 
 This project will create for you a resume with a simple template.
 
+[![Build Status](https://travis-ci.org/nimahkh/resume_generator.svg?branch=master)](https://travis-ci.org/nimahkh/resume_generator)
+
 ##### How to use?
 
 - Edit `src/components/ProfileAndSkills/Education/education.js` for your educations.
